@@ -3,6 +3,8 @@
 ![Vector Chat](https://github.com/n1shan1/STATIC-REPO/blob/master/images/vector-ong.png)  
 *A modern real-time chat application built with React, Node.js, and Socket.io.*
 
+## Deployment: [Here](https://vector-7djw.onrender.com)
+
 ## ✨ Features
 - **Real-time messaging** with Socket.io
 - **User authentication** (JWT & cookies)
